@@ -234,41 +234,6 @@ Prescripto uses authentication to provide secure access to different parts of th
 
 ---
 
-## 📸 Screenshots
-
-### 🏠 Home Page
-
-_Add your screenshot here._
-
-```markdown
-![Home Page](./screenshots/home.png)
-```
-
-### 👨‍⚕️ Doctors
-
-_Add your screenshot here._
-
-```markdown
-![Doctors](./screenshots/doctors.png)
-```
-
-### 📅 Appointment Booking
-
-_Add your screenshot here._
-
-```markdown
-![Appointment Booking](./screenshots/appointment.png)
-```
-
-### 🛠️ Admin Dashboard
-
-_Add your screenshot here._
-
-```markdown
-![Admin Dashboard](./screenshots/admin.png)
-```
-
----
 
 ## 🚀 Future Improvements
 
